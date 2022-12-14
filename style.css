@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(#e66465, #9198e5);
+    margin: 0px;
+    height: 100%;
+}
+div{
+    margin-left:50%;
+   display: inline-block;
+   
+    margin-top:25%;
+   
+    
+}
